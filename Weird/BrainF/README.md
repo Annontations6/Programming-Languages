@@ -26,7 +26,7 @@ Use `[]` as loop. for example, use
 [this](https://github.com/Skyhigh173/Programming-Languages/blob/main/Weird/BrainF/allChars.bf) 
 program can print all ASCII chars.
 
-```bf
+```bff
 +.[+.]
 ```
 
